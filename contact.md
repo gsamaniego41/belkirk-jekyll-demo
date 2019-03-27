@@ -5,6 +5,8 @@ banner_image: "/uploads/2018/12/07/compass.jpg"
 heading: Contact Belkirk College
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+hero_button:
+  text: Contact me
 menu:
   navigation:
     identifier: _contact
